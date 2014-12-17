@@ -1,0 +1,9 @@
+{
+  "name": "linux-ua-to-windows-ua",
+  "title": "Linux UA to Windows UA",
+  "id": "jid1-PN2QXHqmTd16rw",
+  "description": "Converts the linux part of your UA to windows to hopefully reduce your fingerprintability",
+  "author": "Stefan Schneider-Kennedy",
+  "license": "BSD 2-Clause",
+  "version": "1"
+}
